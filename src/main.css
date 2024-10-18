@@ -1,0 +1,9 @@
+.contain {
+    display: flex;
+    align-items: center;
+}
+
+.task-heading {
+    color: #5397F0;
+    margin-left: 10px;
+}
